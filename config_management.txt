@@ -1,0 +1,5 @@
+Configuration Management in Software Development:
+
+Configuration management (CM) is the process of systematically handling
+changes to a software system so that it maintains integrity and traceability
+throughout its lifecycle.
